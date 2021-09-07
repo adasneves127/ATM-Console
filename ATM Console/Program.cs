@@ -21,7 +21,6 @@ namespace ATM_Console
         public static string[] pins = new string[Size];
         public static long[] bal = new long[Size];
         public static int CurrentUser = Size + 1;
-        public static string FileName = @"D:\ATM.txt";
         public static readonly string ManagerPin = "?8?e?s??0?O9?[{?#???r??y???";
 
 
@@ -103,19 +102,6 @@ namespace ATM_Console
             //Writes that it is restoring from previous session
             Console.Write("Restoring From Previous Session");
 
-            //Opens a text file that contains the user info
-            StreamReader values = new StreamReader(FileName);
-
-            //Writes a ., then waits
-            Console.Write("."); Thread.Sleep(10);
-            for (int i = 0; i < Size; i++)
-            {
-                names[i] = values.ReadLine();
-                pins[i] = values.ReadLine();
-                bal[i] = Convert.ToInt64(values.ReadLine());
-
-            }
-            values.Close();
             Thread.Sleep(750);
             Console.Clear();
 
