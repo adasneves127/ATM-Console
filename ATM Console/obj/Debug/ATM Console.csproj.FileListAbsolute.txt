@@ -1,0 +1,9 @@
+C:\Users\adasn\source\repos\ATM Console\ATM Console\bin\Debug\ATM Console.exe.config
+C:\Users\adasn\source\repos\ATM Console\ATM Console\bin\Debug\ATM Console.exe
+C:\Users\adasn\source\repos\ATM Console\ATM Console\bin\Debug\ATM Console.pdb
+C:\Users\adasn\source\repos\ATM Console\ATM Console\obj\Debug\ATM Console.csprojAssemblyReference.cache
+C:\Users\adasn\source\repos\ATM Console\ATM Console\obj\Debug\ATM Console.csproj.CoreCompileInputs.cache
+C:\Users\adasn\source\repos\ATM Console\ATM Console\obj\Debug\ATM Console.exe
+C:\Users\adasn\source\repos\ATM Console\ATM Console\obj\Debug\ATM Console.pdb
+C:\Users\adasn\source\repos\ATM Console\ATM Console\obj\Debug\ATM_Console.Manage.resources
+C:\Users\adasn\source\repos\ATM Console\ATM Console\obj\Debug\ATM Console.csproj.GenerateResource.cache
